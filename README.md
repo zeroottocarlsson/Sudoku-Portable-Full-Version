@@ -226,3 +226,6 @@ This repository serves as the official landing page for Sudoku Portable. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sudoku Portable today!**
+
+---
+**Last updated:** 2026-09-12 19:01:00 UTC
